@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @bakedindie
-- 👀 I’m interested in : Game Dev, Software Dev.
-- 🌱 I’m currently learning : C/C++, C#, Python
+- 
+- 👀 I’m interested in : Software development (Game Dev, Desktop&Mobile Apps), Programming Languages Dev (Linkers, Compilers, Parsers...).
+- 
+- 🌱 I’m currently learning : C/C++, Java, C#, Python, Assembly Languages.
+- 
 - 💞️ I’m looking to collaborate on : Any beginner projects that will help me learn :)
+- 
 - 📫 How to reach me : bakedindie@gmail.com
 
 <!---
